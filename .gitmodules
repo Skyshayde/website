@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:skyshayde/skyshayde.github.io.git
+	branch = master
